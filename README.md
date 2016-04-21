@@ -55,7 +55,7 @@ It is based on the materials developed by Evimaria Terzi and Harry Mavroforakis 
 
 [Lecture 21 - Map Reduce](https://github.com/datascience16/lectures/blob/master/Lecture21/MR.pdf?raw=true)
 
-[Lecture 22 - Map Reduce Graph Algorithms](https://github.com/datascience16/lectures/blob/master/Lecture21/MRGraphs.pdf?raw=true)
+[Lecture 22 - Map Reduce Graph Algorithms](https://github.com/datascience16/lectures/blob/master/Lecture22/MRGraphs.pdf?raw=true)
 
 
 ## Homeworks
