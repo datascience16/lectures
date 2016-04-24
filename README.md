@@ -1,7 +1,7 @@
 # Tools and Techniques for Data Mining and Applications
 ### Boston University CS591 - Spring 2016
 *This repo holds the materials, lectures and scripts for the Boston University course "Tools and Techniques for Data Mining and Applications". You can find more information about the course [here](http://www.cs.bu.edu/faculty/gkollios/cs591K1S16.html).
-It is based on the materials developed by Evimaria Terzi and Harry Mavroforakis in Fall 2015[here] (https://github.com/dataminingapp/dataminingapp-lectures)*
+It is based on the materials developed by Evimaria Terzi and Harry Mavroforakis in Fall 2015 [here] (https://github.com/dataminingapp/dataminingapp-lectures)*
 
 ## Lectures
 [Lecture 1 - Intro to Python](http://nbviewer.ipython.org/github/datascience16/lectures/blob/master/Lecture1/Intro%20to%20Python.ipynb)
@@ -56,6 +56,8 @@ It is based on the materials developed by Evimaria Terzi and Harry Mavroforakis 
 [Lecture 21 - Map Reduce](https://github.com/datascience16/lectures/blob/master/Lecture21/MR.pdf?raw=true)
 
 [Lecture 22 - Map Reduce Graph Algorithms](https://github.com/datascience16/lectures/blob/master/Lecture22/MRGraphs.pdf?raw=true)
+
+[Lecture 23 - Computing Triangles slides](https://github.com/datascience16/lectures/blob/master/Lecture23/www11-triangles-slides.pdf?raw=true) | [Spark Slides] (https://github.com/datascience16/lectures/blob/master/Lecture23/spark.pdf?raw=true)
 
 
 ## Homeworks
